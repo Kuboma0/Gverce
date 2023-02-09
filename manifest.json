@@ -5,7 +5,7 @@
   "background_color": "#eeeeee",
   "display": "standalone",
   "Scope": "/apps/swSample/",
-  "start_url": "/apps/swSample/index.html",
+  "start_url": "index.html",
   "icons": [
    {
     "src": "images/icons/icon-192x192.png",
